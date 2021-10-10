@@ -11,8 +11,6 @@ steps:
 
 In the log for the action you will see:
 
-
-
 ```
 Running tmate...
 
